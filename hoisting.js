@@ -8,7 +8,7 @@ function callMe() {
 }
 
 
-/* OG CODE
+/* OG CODE PROBLEM 2
 function crazy() {
   // fix the code in here:
   thisIsCrazy();
@@ -18,7 +18,8 @@ function crazy() {
   }
 }
 */
-// My solution below 1
+
+// My solution below PROBLEM 2
 function crazy() {
 
   thisIsCrazy();
@@ -28,21 +29,9 @@ function crazy(){
     console.log(thisIsCrazy)
   }
 }
-// My solution above 1
+// My solution above PROBLEM 2
 
-// My solution below 2
-
-function sayMyName() {
-
-  sayMy();
-  function sayMy() {
-    var name = ("Kristin");
-    console.log(name);
-
-     }
-}
-
-/* OG CODE below 2
+/* OG CODE below PROBLEM 3
 function sayMyName() {
   // fix the code in here:
   var name = "Cricky";
@@ -55,3 +44,14 @@ function sayMyName() {
   }
 }
 */
+
+// My solution below PROBLEM 3
+function sayMyName() {
+
+  sayMy();
+  function sayMy() {
+    var name = ("Kristin");
+    console.log(name);
+
+     }
+}
